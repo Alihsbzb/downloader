@@ -71,10 +71,14 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [mhr-cfw-go](https://github.com/Alihsbzb/downloader/tree/main/downloads/mhr-cfw-go)
+1. [go1.26.2.windows-amd64](https://github.com/Alihsbzb/downloader/tree/main/downloads/go1.26.2.windows-amd64)
 
-2. [tele-mirror-x64-win](https://github.com/Alihsbzb/downloader/tree/main/downloads/tele-mirror-x64-win)
+2. [mhr-cfw-go](https://github.com/Alihsbzb/downloader/tree/main/downloads/mhr-cfw-go)
+
+3. [tele-mirror-x64-win](https://github.com/Alihsbzb/downloader/tree/main/downloads/tele-mirror-x64-win)
 
 ---

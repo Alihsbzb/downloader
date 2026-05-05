@@ -69,8 +69,12 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [tele-mirror-x64-win](https://github.com/Alihsbzb/downloader/tree/main/downloads/tele-mirror-x64-win)
+1. [mhr-cfw-go](https://github.com/Alihsbzb/downloader/tree/main/downloads/mhr-cfw-go)
+
+2. [tele-mirror-x64-win](https://github.com/Alihsbzb/downloader/tree/main/downloads/tele-mirror-x64-win)
 
 ---

@@ -75,14 +75,18 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [go1.26.2.windows-amd64](https://github.com/Alihsbzb/downloader/tree/main/downloads/go1.26.2.windows-amd64)
+1. [SlipNet-v2.5.3-full-release-arm64-v8a](https://github.com/Alihsbzb/downloader/tree/main/downloads/SlipNet-v2.5.3-full-release-arm64-v8a)
 
-2. [mhr-cfw-go](https://github.com/Alihsbzb/downloader/tree/main/downloads/mhr-cfw-go)
+2. [go1.26.2.windows-amd64](https://github.com/Alihsbzb/downloader/tree/main/downloads/go1.26.2.windows-amd64)
 
-3. [slipnet-windows-amd64](https://github.com/Alihsbzb/downloader/tree/main/downloads/slipnet-windows-amd64)
+3. [mhr-cfw-go](https://github.com/Alihsbzb/downloader/tree/main/downloads/mhr-cfw-go)
 
-4. [tele-mirror-x64-win](https://github.com/Alihsbzb/downloader/tree/main/downloads/tele-mirror-x64-win)
+4. [slipnet-windows-amd64](https://github.com/Alihsbzb/downloader/tree/main/downloads/slipnet-windows-amd64)
+
+5. [tele-mirror-x64-win](https://github.com/Alihsbzb/downloader/tree/main/downloads/tele-mirror-x64-win)
 
 ---

@@ -4,6 +4,7 @@
 - [Syncplay-1.7.5-Setup](./Syncplay-1.7.5-Setup)
 - [go1.26.2.windows-amd64](./go1.26.2.windows-amd64)
 - [mhr-cfw-go](./mhr-cfw-go)
+- [psiphon-pro-the-internet-freedom-vpn](./psiphon-pro-the-internet-freedom-vpn)
 - [setup-Happ.x64](./setup-Happ.x64)
 - [slipnet-windows-amd64](./slipnet-windows-amd64)
 - [synctv-windows-amd64](./synctv-windows-amd64)

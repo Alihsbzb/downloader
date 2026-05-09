@@ -83,6 +83,8 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [SlipNet-v2.5.3-full-release-arm64-v8a](https://github.com/Alihsbzb/downloader/tree/main/downloads/SlipNet-v2.5.3-full-release-arm64-v8a)
@@ -93,12 +95,14 @@ https://github.com/nikzad-avasam/youtube-dl
 
 4. [mhr-cfw-go](https://github.com/Alihsbzb/downloader/tree/main/downloads/mhr-cfw-go)
 
-5. [slipnet-windows-amd64](https://github.com/Alihsbzb/downloader/tree/main/downloads/slipnet-windows-amd64)
+5. [setup-Happ.x64](https://github.com/Alihsbzb/downloader/tree/main/downloads/setup-Happ.x64)
 
-6. [synctv-windows-amd64](https://github.com/Alihsbzb/downloader/tree/main/downloads/synctv-windows-amd64)
+6. [slipnet-windows-amd64](https://github.com/Alihsbzb/downloader/tree/main/downloads/slipnet-windows-amd64)
 
-7. [synkplay-0.20.0-full-arm64-v8a](https://github.com/Alihsbzb/downloader/tree/main/downloads/synkplay-0.20.0-full-arm64-v8a)
+7. [synctv-windows-amd64](https://github.com/Alihsbzb/downloader/tree/main/downloads/synctv-windows-amd64)
 
-8. [tele-mirror-x64-win](https://github.com/Alihsbzb/downloader/tree/main/downloads/tele-mirror-x64-win)
+8. [synkplay-0.20.0-full-arm64-v8a](https://github.com/Alihsbzb/downloader/tree/main/downloads/synkplay-0.20.0-full-arm64-v8a)
+
+9. [tele-mirror-x64-win](https://github.com/Alihsbzb/downloader/tree/main/downloads/tele-mirror-x64-win)
 
 ---
